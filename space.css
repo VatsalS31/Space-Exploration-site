@@ -1,0 +1,48 @@
+body{
+    margin: -10;
+    margin-left: -20;
+    margin-right: -20;
+    color: #82a5ca;
+    padding: 10px 20px;
+   
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.btn
+{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #82a5ca;
+    font-weight: bold;
+}
+#main
+{
+    width: 200px;
+    padding: 5px 10px;
+}
+#hero
+{
+    background-image: url("giphy1.gif");
+    
+    background-size: cover;
+    padding: 205px 0 205px 0;
+}
+h1{
+    text-shadow: 5px 5px 100px black;
+}
+/* .txt
+{
+    color: rgb(24, 24, 24);
+   padding: 10px 10px;
+} */
+
+/* @font-face {
+    src: url("Bigs\ Robotic.ttf");
+    font-family: big;
+   
+}
+ h1{
+    font-family: big;
+} */
