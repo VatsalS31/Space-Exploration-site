@@ -3,9 +3,8 @@ body{
     margin-left: -20;
     margin-right: -20;
     color: #82a5ca;
-    padding: 10px 20px;
-   
-    text-align: center;
+    padding: 10px 20px ;
+   text-align: center;
     font-family: 'Orbitron', sans-serif;
 }
 .btn
@@ -16,28 +15,50 @@ body{
     font-family: inherit;
     color: #82a5ca;
     font-weight: bold;
+    
 }
+
 #main
 {
     width: 200px;
     padding: 5px 10px;
+    
+   
+    
 }
 #hero
 {
     background-image: url("giphy1.gif");
-    
     background-size: cover;
-    padding: 285px 0 285px 0;
+    padding:400px 0px 500px 0px;
+    
+    
+   
 }
-h1{
+h1 {
     text-shadow: 5px 5px 100px black;
+    
 }
-/* .txt
-{
-    color: rgb(24, 24, 24);
-   padding: 10px 10px;
-} */
 
+.txt *
+{
+    
+   
+   padding: 10px 10px;
+   
+}
+#super{
+    position: absolute;
+    right: 580px;
+    top: 250px;
+}
+.cond
+{
+    position: absolute;
+    right: 600px;
+    bottom: 0px;
+    color: white;
+}
 /* @font-face {
     src: url("Bigs\ Robotic.ttf");
     font-family: big;
